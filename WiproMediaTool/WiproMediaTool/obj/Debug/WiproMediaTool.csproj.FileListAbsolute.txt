@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\WiproMediaTool.exe.config
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\WiproMediaTool.exe
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\WiproMediaTool.pdb
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\obj\Debug\WiproMediaTool.Form1.resources
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\obj\Debug\WiproMediaTool.Properties.Resources.resources
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\obj\Debug\WiproMediaTool.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\obj\Debug\WiproMediaTool.exe
+C:\Users\user\Desktop\WiproMediaTool\WiproMediaTool\WiproMediaTool\obj\Debug\WiproMediaTool.pdb
